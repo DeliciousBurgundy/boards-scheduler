@@ -6,7 +6,7 @@ from html_elements import (header, modal, tabs, take_a_break,
                             today_schedule, week_breakdown)
 
 app = Dash(__name__)
-#server = app.server #uncomment during push
+server = app.server #uncomment during push
 
 app.layout = html.Div([
     header,
