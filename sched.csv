@@ -38,9 +38,9 @@ Cardiac Path - 94,2023-11-19,Pathoma,False
 School,2023-11-20,Anki,False
 Sketchy,2023-11-20,Anki,False
 AnKING,2023-11-20,Anki,False
-Intestinal Nematode,2023-11-21,Sketchy,False
-Tissue Nematode,2023-11-21,Sketchy,False
-Trichomonas Vag,2023-11-21,Sketchy,False
+Intestinal Nematode,2023-11-21,Sketchy,True
+Tissue Nematode,2023-11-21,Sketchy,True
+Trichomonas Vag,2023-11-21,Sketchy,True
 School,2023-11-21,Anki,False
 Sketchy,2023-11-21,Anki,False
 AnKING,2023-11-21,Anki,False
@@ -55,8 +55,8 @@ Hernia,2023-11-22,Boards and Beyond,False
 GI Embry,2023-11-22,Bootcamp,False
 Visceral Anatomy,2023-11-22,Bootcamp,False
 Non-Visceral Anatomy,2023-11-22,Bootcamp,False
-Physiology,2023-11-22,Other,False
-Hepatic Pathology,2023-11-22,Other,False
+Physiology,2023-11-22,Review,False
+Hepatic Pathology,2023-11-22,Review,False
 Picorna Overview,2023-11-23,Sketchy,False
 Poliovirus,2023-11-23,Sketchy,False
 Coxsackievirus,2023-11-23,Sketchy,False
